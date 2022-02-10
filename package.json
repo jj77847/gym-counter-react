@@ -1,0 +1,28 @@
+{
+  "name": "gym-counter-react",
+  "version": "1.0.0",
+  "description": "afaf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj77847/gym-counter-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj77847/gym-counter-react/issues"
+  },
+  "homepage": "https://github.com/jj77847/gym-counter-react#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "react": "^17.0.2"
+  }
+}
